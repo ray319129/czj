@@ -1,0 +1,16 @@
+# 忽略 data 目錄
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 環境檔案
+.env
+.env.*
+
+# Excel 臨時檔案
+~$*
+.~*
+*.tmp
